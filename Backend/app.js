@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3001;
 
 const cors = require('cors');
 app.use(cors());
-// app.use('/home', express.static('build'));
+app.use('/home', express.static('build'));
 
 // Connect to MongoDB
 mongoose.connect('mongodb+srv://saransh9803:Saransh%40123@cluster0.hel1jjm.mongodb.net/test', {

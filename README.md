@@ -12,13 +12,15 @@ Check out the live demo: [Live Demo]()
 
 ## Screenshots
 
-![Notes App - By Saransh]()
+![Notes App - By Saransh](https://github.com/saranshh/taskphin-assignment/blob/main/Screenshots/Screenshot%20(266).png)
 
-![Notes App - By Saransh]()
+![Notes App - By Saransh](https://github.com/saranshh/taskphin-assignment/blob/main/Screenshots/Screenshot%20(267).png)
 
-![Notes App - By Saransh]()
+![Notes App - By Saransh](https://github.com/saranshh/taskphin-assignment/blob/main/Screenshots/Screenshot%20(268).png)
 
-![Notes App - By Saransh]()
+![Notes App - By Saransh](https://github.com/saranshh/taskphin-assignment/blob/main/Screenshots/Screenshot%20(269).png)
+
+![Notes App - By Saransh](https://github.com/saranshh/taskphin-assignment/blob/main/Screenshots/Screenshot%20(270).png)
 
 ## Technologies Used
 

@@ -5,11 +5,6 @@ Note-taking App
 
 The note-taking application is designed to provide users with a simple yet powerful tool for creating, managing, and organizing their notes. The application offers a user-friendly interface with a What You Write Is What You Get (WYWSGI) editor, allowing users to create notes effortlessly. Each note is stored in HTML format in the database, ensuring compatibility and flexibility for various use cases.
 
-
-## Live Demo
-
-Check out the live demo: [Live Demo]()
-
 ## Screenshots
 
 ![Notes App - By Saransh](https://github.com/saranshh/taskphin-assignment/blob/main/Screenshots/Screenshot%20(266).png)
